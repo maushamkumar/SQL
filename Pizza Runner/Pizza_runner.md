@@ -1,1 +1,1 @@
-<img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
+<img src="https://github.com/maushamkumar/SQL/blob/main/Pizza%20Runner/SQL%20Case%20STUDY.png" alt="Image" width="500" height="520">
